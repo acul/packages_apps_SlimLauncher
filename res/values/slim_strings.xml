@@ -21,25 +21,27 @@
 
     <string name="google_title">Google</string>
 
-    <string name="default_string">Default</string>
-    <string name="reset_string">Reset</string>
-    <string name="set_string">Set</string>
+    <string name="default_string">alapértelmezett</string>
+    <string name="reset_string">törlés</string>
+    <string name="set_string">beállitás </string>
 
     <!-- Text for default screen button -->
-    <string name="default_screen_button_text">Default Screen</string>
+    <string name="default_screen_button_text">alapértelmezettképernyő</string>
 
-    <string name="launcher_settings_title">Launcher settings</string>
-    <string name="error_message_title">Error</string>
+    <string name="launcher_settings_title">Launcher beállitások</string>
+    <string name="error_message_title">hiba</string>
 
-    <string name="scroll_wallpaper_title">Scroll wallpaper</string>
+    <string name="scroll_wallpaper_title">görgethetőháttérkép</string>
     <string name="scroll_wallpaper_summary">Pan wallpaper while scrolling homescreens</string>
 
-    <string name="shortcut_picker_title">SlimLauncher shortcuts</string>
+    <string name="shortcut_picker_title">SlimLauncher hivatkozások
+         
+    </string>
 
-    <string name="shortcut_action_launcher_apps">All apps</string>
+    <string name="shortcut_action_launcher_apps">mindenalkalmazás</string>
     <string name="shortcut_action_launcher_overview">Overview mode</string>
-    <string name="shortcut_action_launcher_settings">Launcher settings</string>
-    <string name="shortcut_action_launcher_homescreen">Default homescreen</string>
+    <string name="shortcut_action_launcher_settings">Launcher beállitások</string>
+    <string name="shortcut_action_launcher_homescreen">alapértelmezett képernyő</string>
 
     <!-- Homescreen -->
     <string name="homescreen_title">Homescreen</string>
